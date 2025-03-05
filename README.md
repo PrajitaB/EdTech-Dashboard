@@ -6,6 +6,7 @@ You are a data analyst working with an EdTech startup that wants to grow its off
 
 <br>
 
+
 [Dataset Link](https://www.kaggle.com/datasets/khaledatef1/online-courses)
 
 - Examine the distribution of course types across categories to uncover trends and insights, enabling the client to strategically determine which course types to launch in specific categories for maximum impact and alignment with learner demand, also count the number of courses by category and sub-category.
