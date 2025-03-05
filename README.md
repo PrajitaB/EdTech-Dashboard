@@ -1,8 +1,9 @@
-<h1 align="center">EdTech Report Dashboard</h1>
+<h1>EdTech Report Dashboard</h1>
 The Power BI EdTech Dashboard is developed to analyze and visualize different course details including  lecture data, student engagement, language preferences, scores, performance leveraging an Online Tech Startup Dataset to provide insights on the course offerings to enhance the viewer engagement to make informed decisions.
 
-<h1 align="center">Problem Statement</h1>
+<h1>Problem Statement</h1>
 You are a data analyst working with an EdTech startup that wants to grow its offerings in recorded lectures. The company has collected data from various EdTech websites but needs your expertise to make sense of it. Your task is to clean and analyse this data to uncover valuable insights. To ensure the startup can effectively leverage this information, you will create a dashboard that presents following insights. Your analysis will help the company identify areas for improvement and opportunities for growth in their recorded lecture services. The most Important Emphasis should be category wise.
+<br>
 
 ![Dataset Link](https://www.kaggle.com/datasets/khaledatef1/online-courses)
 
